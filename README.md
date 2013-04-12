@@ -18,3 +18,4 @@ Developers
 ----------
 * Samyak Bhuta (samyakbhuta)
 * Kartik Mistry (kartim)
+* Konarak Ratnakar (konarak)
