@@ -19,3 +19,7 @@ Developers
 * Samyak Bhuta (samyakbhuta)
 * Kartik Mistry (kartim)
 * Konarak Ratnakar (konarak)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/samyakbhuta/bapudi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
